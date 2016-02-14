@@ -104,3 +104,5 @@ Server/cuberite_api.lua
 Server/official_undocumented.lua
 Server/NewlyUndocumented.lua
 
+build-cuberite/
+.DS_Store
